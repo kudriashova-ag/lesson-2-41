@@ -1,0 +1,30 @@
+h3{
+    color: #13b0f8;
+}
+body{
+    background: beige;
+}
+
+.btn{
+    background: #13b0f8;
+    color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.btn-remove{
+    background: red;
+}
+
+#title{
+    color: #13b0f8;
+}
+.primary{
+    color: maroon
+}
+
+.example{
+    text-align: center;
+    font-size: 40px;
+    font-family: "Playwrite IN", serif;
+}
